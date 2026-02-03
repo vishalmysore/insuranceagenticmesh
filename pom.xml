@@ -39,7 +39,7 @@
         <dependency>
             <groupId>io.github.vishalmysore</groupId>
             <artifactId>a2ajava</artifactId>
-            <version>1.0.7</version>
+            <version>1.0.6</version>
         </dependency>
         <dependency>
             <groupId>io.github.vishalmysore</groupId>
